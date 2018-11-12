@@ -2,10 +2,13 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
     <option name="selectedTheme" value="ARC_DARK" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="009688" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="isCompactTables" value="true" />
     <option name="useMaterialFont2" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="userId" value="41f45c27:167092c2d68:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="overrideAccentColor" value="true" />

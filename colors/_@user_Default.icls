@@ -4,7 +4,7 @@
     <property name="created">2018-08-16T23:36:10</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-11-21T15:09:23</property>
+    <property name="modified">2018-11-21T15:55:53</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -31,4 +31,9 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6182b8" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
 </scheme>

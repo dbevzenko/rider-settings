@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../EOG.OmniSciApi.Tests/Mocks/EnvironmentMock.cs'" />
-    <option name="defaultScopeName" value="File '.../EOG.OmniSciApi.Tests/Mocks/EnvironmentMock.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../EOG.OmniSciApi.Tests/Mocks/EnvironmentMock.cs'" />
+    <option name="customScope" value="File '.../EOG.OmniSciApi/Connection/ConnectionRepository.cs'" />
+    <option name="defaultScopeName" value="File '.../EOG.OmniSciApi/Connection/ConnectionRepository.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../EOG.OmniSciApi/Connection/ConnectionRepository.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

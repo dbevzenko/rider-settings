@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../EOG.OmniSciApi/Connection/Environment.cs'" />
-    <option name="defaultScopeName" value="File '.../EOG.OmniSciApi/Connection/Environment.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../EOG.OmniSciApi/Connection/Environment.cs'" />
+    <option name="customScope" value="Project 'EOG.OmniSciApi'" />
+    <option name="defaultScopeName" value="Project 'EOG.OmniSciApi'" />
+    <option name="SEARCH_SCOPE" value="Project 'EOG.OmniSciApi'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

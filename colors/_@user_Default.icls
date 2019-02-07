@@ -4,12 +4,13 @@
     <property name="created">2018-08-16T23:36:10</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-11-21T15:55:53</property>
+    <property name="modified">2019-02-07T17:30:13</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="mononoki" />
+  <option name="EDITOR_FONT_NAME" value="Input Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="91b859" />
     <option name="FILESTATUS_DELETED" value="808080" />
@@ -33,7 +34,10 @@
   </colors>
   <attributes>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
   </attributes>
 </scheme>

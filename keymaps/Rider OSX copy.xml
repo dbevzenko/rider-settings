@@ -1,0 +1,5 @@
+<keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="BuildSelection">
+    <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="b" />
+  </action>
+</keymap>

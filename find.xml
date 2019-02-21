@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'EOG.OmniSci.Client'" />
-    <option name="defaultScopeName" value="Project 'EOG.OmniSci.Client'" />
-    <option name="SEARCH_SCOPE" value="Project 'EOG.OmniSci.Client'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

@@ -4,7 +4,7 @@
     <property name="created">2018-11-12T12:35:30</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-03-01T08:41:54</property>
+    <property name="modified">2019-03-01T14:58:22</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -138,7 +138,6 @@
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="4078f2" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_BAD_CHARACTER">
@@ -410,7 +409,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="383a42" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -501,6 +499,16 @@
       <value>
         <option name="FOREGROUND" value="f77669" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
@@ -1529,7 +1537,6 @@
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
         <option name="FOREGROUND" value="4078f2" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
@@ -3215,7 +3222,6 @@
     <option name="ReSharper.ASP_NET_COMMENT">
       <value>
         <option name="FOREGROUND" value="a0a1a7" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ENTITY_REFERENCE">

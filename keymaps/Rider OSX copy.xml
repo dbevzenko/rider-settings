@@ -2,4 +2,7 @@
   <action id="BuildSelection">
     <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="b" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="3" />
+  </action>
 </keymap>

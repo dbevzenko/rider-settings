@@ -4,7 +4,7 @@
     <property name="created">2018-11-12T12:35:30</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-03-01T14:58:22</property>
+    <property name="modified">2019-03-04T15:01:02</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -3752,6 +3752,12 @@
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="dbdbdc" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="EFFECT_COLOR" value="ff1100" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">

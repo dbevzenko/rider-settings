@@ -1,0 +1,24 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Emoji &amp; Symbols">
+        <Item>
+          <IdeaActionID>EmojiAndSymbols</IdeaActionID>
+          <ShortCut>'⌃⌘Space'</ShortCut>
+          <Description>Emoji &amp; Symbols</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

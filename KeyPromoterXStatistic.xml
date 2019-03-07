@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="NuGet">
+        <Item>
+          <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
+          <ShortCut>'⌘7' or '⇧⌘7'</ShortCut>
+          <Description>NuGet</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameRiderItem</IdeaActionID>

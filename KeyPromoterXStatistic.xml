@@ -177,6 +177,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Session'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Session'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>

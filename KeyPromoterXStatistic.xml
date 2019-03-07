@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -22,7 +22,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'EOG.OmniSci.Client.Tests'">
@@ -102,7 +102,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'⌘8' or '⇧⌘8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>

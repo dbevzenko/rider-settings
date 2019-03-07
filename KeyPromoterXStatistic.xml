@@ -46,7 +46,7 @@
           <IdeaActionID>RiderUnitTestDebugContextAction</IdeaActionID>
           <ShortCut>'⌘;, D' or '⌘;, ⌘D'</ShortCut>
           <Description>Debug Unit Tests</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -97,12 +97,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run All Tests from Solution">
+        <Item>
+          <IdeaActionID>RiderUnitTestRunSolutionAction</IdeaActionID>
+          <ShortCut>'⌘;, L' or '⌘;, ⌘L'</ShortCut>
+          <Description>Run All Tests from Solution</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run Current Session">
         <Item>
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -126,7 +134,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution'">
@@ -134,6 +142,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All tests from Solution'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Domain Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Domain Tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -182,7 +198,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'⌘8' or '⇧⌘8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>15</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
     </option>

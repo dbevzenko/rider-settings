@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -127,6 +127,14 @@
           <ShortCut>'⌘;, R' or '⌘;, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Solution or Project...">
+        <Item>
+          <IdeaActionID>RiderOpenSolution</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Solution or Project...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">

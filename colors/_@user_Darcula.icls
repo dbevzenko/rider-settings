@@ -4,7 +4,7 @@
     <property name="created">2018-11-12T12:25:53</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-02-27T15:10:25</property>
+    <property name="modified">2019-03-07T08:27:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -32,4 +32,13 @@
     <option name="FILESTATUS_addedOutside" value="8f9d6a" />
     <option name="FILESTATUS_modifiedOutside" value="7587a6" />
   </colors>
+  <attributes>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="BACKGROUND" value="bc7e3c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

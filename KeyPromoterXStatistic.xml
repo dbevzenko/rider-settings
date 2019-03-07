@@ -46,7 +46,7 @@
           <IdeaActionID>RiderUnitTestDebugContextAction</IdeaActionID>
           <ShortCut>'⌘;, D' or '⌘;, ⌘D'</ShortCut>
           <Description>Debug Unit Tests</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +86,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EOG.OmniSci.Client.T...'">
@@ -182,7 +182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Session'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'⌘8' or '⇧⌘8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>24</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
     </option>

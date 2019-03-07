@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Repeat Previous Run">
+        <Item>
+          <IdeaActionID>RiderUnitTestRepeatPreviousRunAction</IdeaActionID>
+          <ShortCut>'⌘;, T' or '⌘;, ⌘T'</ShortCut>
+          <Description>Repeat Previous Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>

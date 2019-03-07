@@ -6,6 +6,8 @@
         <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="com.intellij.kubernetes.references.LabelContainerAnnotator" value="true" />
+        <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
         <entry key="java.implemented" value="true" />
@@ -15,6 +17,10 @@
         <entry key="java.overriding" value="true" />
         <entry key="java.service" value="true" />
         <entry key="java.sibling.inherited" value="true" />
+        <entry key="js.implemented" value="true" />
+        <entry key="js.implementing" value="true" />
+        <entry key="js.overridden" value="true" />
+        <entry key="js.overriding" value="true" />
       </map>
     </option>
   </component>

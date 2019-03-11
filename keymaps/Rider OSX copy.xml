@@ -1,9 +1,11 @@
 <keymap version="1" name="Rider OSX copy" parent="Rider OSX">
   <action id="BuildSelection">
     <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="b" />
+    <keyboard-shortcut first-keystroke="alt back_quote" second-keystroke="b" />
   </action>
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="alt back_quote" second-keystroke="r" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="3" />

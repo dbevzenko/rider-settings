@@ -2,6 +2,9 @@
   <action id="BuildSelection">
     <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="b" />
   </action>
+  <action id="RebuildSolutionAction">
+    <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="r" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="3" />
   </action>

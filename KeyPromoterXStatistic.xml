@@ -134,7 +134,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>18</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">

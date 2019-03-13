@@ -134,7 +134,7 @@
           <IdeaActionID>RiderUnitTestRunSolutionAction</IdeaActionID>
           <ShortCut>'⌘;, L' or '⌘;, ⌘L'</ShortCut>
           <Description>Run All Tests from Solution</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Current Session">
@@ -238,7 +238,7 @@
           <IdeaActionID>RiderUnitTestQuickListPopupAction</IdeaActionID>
           <ShortCut>'⌥⇧U'</ShortCut>
           <Description>Unit Testing Quick List...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Tests">

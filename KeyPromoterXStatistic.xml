@@ -22,7 +22,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'EOG.OmniSci.Client.Tests'">
@@ -150,7 +150,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'⌘;, R' or '⌘;, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">

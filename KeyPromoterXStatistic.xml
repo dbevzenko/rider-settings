@@ -105,6 +105,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Properties...">
+        <Item>
+          <IdeaActionID>EditPropertiesAction</IdeaActionID>
+          <ShortCut>'⌥⏎'</ShortCut>
+          <Description>Properties...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refactor This...">
         <Item>
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>

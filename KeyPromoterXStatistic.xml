@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -113,6 +113,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild Solution">
+        <Item>
+          <IdeaActionID>RebuildSolutionAction</IdeaActionID>
+          <ShortCut>'⌘`, R' or '⌥`, R'</ShortCut>
+          <Description>Rebuild Solution</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refactor This...">
         <Item>
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
@@ -190,7 +198,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -198,7 +206,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'⌘;, R' or '⌘;, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -265,6 +273,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop Execution">
+        <Item>
+          <IdeaActionID>RiderUnitTestSessionAbortAction</IdeaActionID>
+          <ShortCut>'⌘;, S' or '⌘;, ⌘S'</ShortCut>
+          <Description>Stop Execution</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -302,7 +318,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'⌘8' or '⇧⌘8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

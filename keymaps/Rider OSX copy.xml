@@ -13,4 +13,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="3" />
   </action>
+  <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta back_quote" second-keystroke="open_bracket" />
+  </action>
 </keymap>

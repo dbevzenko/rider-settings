@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -126,7 +126,7 @@
           <IdeaActionID>RebuildSolutionAction</IdeaActionID>
           <ShortCut>'⌘`, R' or '⌥`, R'</ShortCut>
           <Description>Rebuild Solution</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
@@ -142,7 +142,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Repeat Previous Run">
@@ -206,7 +206,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -222,6 +222,14 @@
           <IdeaActionID>UML.ShowChanges</IdeaActionID>
           <ShortCut>'⌥⇧⌘D'</ShortCut>
           <Description>Show Local Changes as UML</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Quick Actions Popup">
+        <Item>
+          <IdeaActionID>QuickActionPopup</IdeaActionID>
+          <ShortCut>'⌥⌘⏎'</ShortCut>
+          <Description>Show Quick Actions Popup</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

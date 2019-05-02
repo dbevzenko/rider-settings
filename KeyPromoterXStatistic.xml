@@ -142,7 +142,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Repeat Previous Run">
@@ -214,7 +214,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'⌘;, R' or '⌘;, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">

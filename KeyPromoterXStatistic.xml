@@ -166,7 +166,15 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>32</Count>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Default'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Default'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dockerfile'">
@@ -206,7 +214,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>37</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -214,7 +222,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'⌘;, R' or '⌘;, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>19</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -246,7 +254,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -254,7 +262,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>85</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution'">

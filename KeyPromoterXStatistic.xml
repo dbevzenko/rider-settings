@@ -22,7 +22,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -222,7 +222,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>80</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -230,7 +230,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'⌘;, R' or '⌘;, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">

@@ -1,4 +1,7 @@
 <keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="ActivateErrorsInSolutionToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="BuildSelection">

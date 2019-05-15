@@ -1,4 +1,8 @@
 <keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ActivateErrorsInSolutionToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
@@ -14,6 +18,9 @@
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl l" />

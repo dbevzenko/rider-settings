@@ -241,6 +241,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Send Selection to F# Interactive">
+        <Item>
+          <IdeaActionID>Rider.Plugins.FSharp.SendToFsi</IdeaActionID>
+          <ShortCut>'⌘\'</ShortCut>
+          <Description>Send Selection to F# Interactive</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Local Changes as UML">
         <Item>
           <IdeaActionID>UML.ShowChanges</IdeaActionID>

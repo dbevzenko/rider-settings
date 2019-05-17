@@ -25,6 +25,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌥C' or '⎋, W'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -126,6 +134,14 @@
           <IdeaActionID>tasks.goto</IdeaActionID>
           <ShortCut>'⌥⇧N'</ShortCut>
           <Description>Open Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌃Y'</ShortCut>
+          <Description>Paste</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

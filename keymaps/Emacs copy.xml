@@ -7,9 +7,8 @@
   <action id="CleanSolutionAction">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
-  <action id="EditSource">
+  <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="tab" />
@@ -19,11 +18,24 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="period" />
+    <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift f5" />
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
 </keymap>

@@ -1,5 +1,15 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CleanSolutionAction">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="RebuildSolutionAction">
+    <keyboard-shortcut first-keystroke="shift f5" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
 </keymap>

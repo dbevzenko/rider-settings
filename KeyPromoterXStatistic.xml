@@ -113,6 +113,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Force Step Over">
+        <Item>
+          <IdeaActionID>ForceStepOver</IdeaActionID>
+          <ShortCut>'⌥⇧F8'</ShortCut>
+          <Description>Force Step Over</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Next Error">
         <Item>
           <IdeaActionID>ReSharperGotoNextErrorInSolution</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>44</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -310,7 +318,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>119</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution'">
@@ -342,7 +350,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Session'</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop Execution">

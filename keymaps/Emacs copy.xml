@@ -26,6 +26,9 @@
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />

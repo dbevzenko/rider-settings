@@ -25,12 +25,20 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close Active Task...">
+        <Item>
+          <IdeaActionID>tasks.close</IdeaActionID>
+          <ShortCut>'⌥⇧W'</ShortCut>
+          <Description>Close Active Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌥C' or '⎋, W'</ShortCut>
           <Description>Copy</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -374,7 +382,7 @@
           <IdeaActionID>tasks.switch</IdeaActionID>
           <ShortCut>'⌥⇧T'</ShortCut>
           <Description>Switch Task...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">

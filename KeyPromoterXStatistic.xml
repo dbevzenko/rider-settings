@@ -33,6 +33,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close All">
+        <Item>
+          <IdeaActionID>CloseAllEditors</IdeaActionID>
+          <ShortCut>'⌃X, ⌃C'</ShortCut>
+          <Description>Close All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>

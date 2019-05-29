@@ -57,6 +57,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'EOG.OmniSci.Api'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'EOG.OmniSci.Api'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'EOG.OmniSci.Client.Tests'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -222,7 +230,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>51</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -239,6 +247,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Dockerfile'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EOG.OmniSci.Api'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'EOG.OmniSci.Api'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EOG.OmniSci.Client.T...'">
@@ -334,7 +350,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>162</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution'">
@@ -351,6 +367,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Domain Tests'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EOG.OmniSci.Api'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'EOG.OmniSci.Api'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EOG.OmniSciApi'">
@@ -382,7 +406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Switch Task...">

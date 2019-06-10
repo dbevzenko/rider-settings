@@ -30,7 +30,7 @@
           <IdeaActionID>CleanSolutionAction</IdeaActionID>
           <ShortCut>'⌥⌘C'</ShortCut>
           <Description>Clean Solution</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Active Task...">
@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃X, ⌃C'</ShortCut>
           <Description>Close All</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">

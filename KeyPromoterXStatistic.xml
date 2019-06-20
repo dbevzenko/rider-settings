@@ -185,6 +185,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Next Error">
         <Item>
           <IdeaActionID>ReSharperGotoNextErrorInSolution</IdeaActionID>
@@ -343,6 +351,14 @@
           <ShortCut>'⌘;, R' or '⌘;, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'⌃⌥R'</ShortCut>
+          <Description>Run...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Send Selection to F# Interactive">

@@ -174,7 +174,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Over">
@@ -286,7 +286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>174</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -430,7 +430,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>226</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution'">
@@ -462,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'EOG.OmniSci.Api'</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EOG.OmniSciApi'">

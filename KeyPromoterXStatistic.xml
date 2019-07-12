@@ -174,7 +174,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Over">
@@ -286,7 +286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>200</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -438,7 +438,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>237</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution'">

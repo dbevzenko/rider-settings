@@ -238,7 +238,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Properties...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Solution">

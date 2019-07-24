@@ -30,7 +30,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'⌘`, B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Clean Solution">
@@ -278,7 +278,7 @@
           <IdeaActionID>RiderUnitTestRepeatPreviousRunAction</IdeaActionID>
           <ShortCut>'⌘;, T' or '⌘;, ⌘T'</ShortCut>
           <Description>Repeat Previous Run</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All tests from Solution'">
@@ -358,7 +358,7 @@
           <IdeaActionID>RiderUnitTestRunSolutionAction</IdeaActionID>
           <ShortCut>'⌘;, L' or '⌘;, ⌘L'</ShortCut>
           <Description>Run All Tests from Solution</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Current Session">
@@ -430,7 +430,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'⌃⇧O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
@@ -598,7 +598,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'⌘8' or '⇧⌘8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>65</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">

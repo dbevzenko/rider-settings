@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'⌥⌘M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Next Error">
         <Item>
           <IdeaActionID>ReSharperGotoNextErrorInSolution</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>245</Count>
+          <Count>248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -470,7 +478,15 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>325</Count>
+          <Count>327</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All tests from Solution #3'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All tests from Solution #3'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution #5'">
@@ -558,7 +574,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Switch Task...">

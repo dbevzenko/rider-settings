@@ -126,7 +126,7 @@
           <IdeaActionID>RiderUnitTestDebugContextAction</IdeaActionID>
           <ShortCut>'⌘;, D' or '⌘;, ⌘D'</ShortCut>
           <Description>Debug Unit Tests</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -318,7 +318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>277</Count>
+          <Count>278</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -382,7 +382,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'⌘;, Y' or '⌘;, ⌘Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'⌘8' or '⇧⌘8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>88</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">

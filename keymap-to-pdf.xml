@@ -1,6 +1,0 @@
-<application>
-  <component name="KeymapToPDF">
-    <option name="keymapName" value="Rider OSX" />
-    <option name="outputPath" value="$USER_HOME$/tmp" />
-  </component>
-</application>

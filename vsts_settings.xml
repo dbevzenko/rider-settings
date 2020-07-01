@@ -1,0 +1,37 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dbvz@dev.azure.com/dbvz/Budget%20workflows/_git/Prototype2" />
+          <option name="serverUri" value="https://dev.azure.com/dbvz" />
+          <option name="userId" value="cb50c076-9a10-69ca-b60d-4432969f816c" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;49eddc9f-9fbe-45c6-aa73-97608311c82b&quot;,&quot;name&quot;:&quot;dbvz&quot;,&quot;url&quot;:&quot;https://dev.azure.com/dbvz/_apis/projectCollections/49eddc9f-9fbe-45c6-aa73-97608311c82b&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Simple budget software focused on time series analysis of cash flow inside a single working family.&quot;,&quot;id&quot;:&quot;020ab292-3d31-4269-8efe-690673201cdb&quot;,&quot;name&quot;:&quot;Budget workflows&quot;,&quot;revision&quot;:34,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/dbvz/_apis/projects/020ab292-3d31-4269-8efe-690673201cdb&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;964f0c23-76d8-46c6-99d8-1cc2ce722074&quot;,&quot;name&quot;:&quot;Prototype2&quot;,&quot;remoteUrl&quot;:&quot;https://dbvz@dev.azure.com/dbvz/Budget%20workflows/_git/Prototype2&quot;,&quot;url&quot;:&quot;https://dev.azure.com/dbvz/020ab292-3d31-4269-8efe-690673201cdb/_apis/git/repositories/964f0c23-76d8-46c6-99d8-1cc2ce722074&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Simple budget software focused on time series analysis of cash flow inside a single working family.&quot;,&quot;id&quot;:&quot;020ab292-3d31-4269-8efe-690673201cdb&quot;,&quot;name&quot;:&quot;Budget workflows&quot;,&quot;revision&quot;:34,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/dbvz/_apis/projects/020ab292-3d31-4269-8efe-690673201cdb&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/dbvz" />
+          <option name="serverUri" value="https://dev.azure.com/dbvz" />
+          <option name="userId" value="cb50c076-9a10-69ca-b60d-4432969f816c" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/dbvz/src" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//dev.azure.com/dbvz" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

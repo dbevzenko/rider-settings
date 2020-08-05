@@ -1,0 +1,11 @@
+<application>
+  <component name="PluginPropertiesComponent">
+    <option name="daySchemeName" value="_@user_Xcode-Dark" />
+    <option name="dayStartTime" value="390" />
+    <option name="dayThemeName" value="Cyan light" />
+    <option name="enabled" value="true" />
+    <option name="nightSchemeName" value="_@user_Xcode-Dark" />
+    <option name="nightStartTime" value="450" />
+    <option name="nightThemeName" value="Xcode-Dark" />
+  </component>
+</application>

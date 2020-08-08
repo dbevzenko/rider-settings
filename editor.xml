@@ -14,7 +14,39 @@
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Asxx" value="true" />
+        <entry key="C#" value="true" />
+        <entry key="Config" value="true" />
+        <entry key="F#" value="true" />
+        <entry key="F# Script" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="MSBuild" value="true" />
+        <entry key="Resx" value="true" />
+        <entry key="RuleSet" value="true" />
+        <entry key="SQL" value="true" />
+        <entry key="VB" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COMMA_ON_ENTER" value="false" />
+    <option name="COMMA_ON_MATCHING_BRACES" value="false" />
+    <option name="COMMA_ON_PASTE" value="false" />
+    <option name="AUTO_QUOTE_PROP_NAME" value="false" />
+    <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
   </component>
 </application>

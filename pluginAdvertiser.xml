@@ -758,6 +758,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.localizationmanager">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.manifest">
           <value>
             <plugin>
@@ -1091,12 +1100,36 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ps1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psd1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psm1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
             </plugin>
           </value>
         </entry>
@@ -1952,6 +1985,11 @@
                       <FeaturePluginData displayName=".NET Static Method" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="ELM_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Elm Test" pluginName="Elm" pluginId="org.elm.klazuka" />
+                    </value>
+                  </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
@@ -1960,6 +1998,11 @@
                   <entry key="LaunchSettings">
                     <value>
                       <FeaturePluginData displayName=".NET Launch Settings Profile" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="PowerShellRunType">
+                    <value>
+                      <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
                     </value>
                   </entry>
                   <entry key="RiderUnitTests">

@@ -1,8 +1,8 @@
 <application>
-  <component name="CodeLensSettings" enabled="false">
+  <component name="CodeLensSettings">
     <enabled>
       <map>
-        <entry key="VcsAuthorCodeLensProvider" value="false" />
+        <entry key="VcsAuthorCodeLensProvider" value="true" />
       </map>
     </enabled>
   </component>
